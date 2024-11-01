@@ -1,0 +1,8 @@
+declare module "*styled-components"
+declare module "*react-hook-form"
+declare module "*@hookform/resolvers/yup"
+declare module "*yup"
+declare module "*react-redux"
+declare module "*react"
+declare module "*@tanstack/react-query"
+declare module "*react-router-dom"
